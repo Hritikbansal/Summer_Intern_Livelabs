@@ -1,3 +1,4 @@
+#Code to extract bus data for different bus routes on a particular day
 import requests as req
 import time
 
@@ -21,15 +22,15 @@ def make_files():
 
 	
 
-	for i in range(480):
+	for i in range(480): #Time for which data needs to be retrieved
 		
 		print(i)
-		get_data_25=req_page("https://api.tfl.gov.uk/line/25/arrivals")  #route number 1
-		get_data_17=req_page("https://api.tfl.gov.uk/line/17/arrivals")  #route number 10
-		get_data_145=req_page("https://api.tfl.gov.uk/line/145/arrivals")  #route number 24
-		get_data_12=req_page("https://api.tfl.gov.uk/line/12/arrivals")  #route number 115
-		get_data_326=req_page("https://api.tfl.gov.uk/line/326/arrivals")  #route number 115
-		get_data_111=req_page("https://api.tfl.gov.uk/line/111/arrivals")  #route number 115
+		get_data_25=req_page("https://api.tfl.gov.uk/line/25/arrivals")  #route number 25
+		get_data_17=req_page("https://api.tfl.gov.uk/line/17/arrivals")  
+		get_data_145=req_page("https://api.tfl.gov.uk/line/145/arrivals")  
+		get_data_12=req_page("https://api.tfl.gov.uk/line/12/arrivals")  
+		get_data_326=req_page("https://api.tfl.gov.uk/line/326/arrivals")  
+		get_data_111=req_page("https://api.tfl.gov.uk/line/111/arrivals")  
 
 		if(get_data_25!="ERROR"):
 			if(i==0):
