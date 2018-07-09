@@ -1,3 +1,5 @@
+#Code to convert the extracted data into required format 1
+
 import pandas as pd
 import matplotlib.pyplot as plt 
 import operator
