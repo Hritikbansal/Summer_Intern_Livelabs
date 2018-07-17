@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 import time
 
-t0=time.time()#start time in seconds
+t0=time.time() #start time in seconds
 
 
 cap=cv2.VideoCapture(0)
