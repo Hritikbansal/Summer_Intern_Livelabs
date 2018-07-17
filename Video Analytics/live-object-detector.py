@@ -8,6 +8,9 @@
 # Detect objects on a LIVE camera feed using
 # Intel® Movidius™ Neural Compute Stick (NCS)
 
+#Original file that comes with ncappzoo app has been tweaked to accomodate 
+#requirements of this work.
+
 import os
 import cv2
 import sys
