@@ -1,3 +1,5 @@
+# Capturing video to test it on the proposed algorithm
+
 import cv2
 import numpy as np
 import time
@@ -19,7 +21,7 @@ while(True):
 	
 	t1=time.time()
 	diff=t1-t0
-	if(diff>30):
+	if(diff>30):  		#Making a video of 30 seconds 
 		break
 	
 	if(cv2.waitKey(1)&0xFF==ord('q')):
