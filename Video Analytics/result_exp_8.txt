@@ -1,0 +1,852 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+61.0%	15: person: Top Left: (116, 385) Bottom Right: (315, 451)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60.0%	15: person: Top Left: (113, 386) Bottom Right: (316, 452)
+61.0%	15: person: Top Left: (115, 386) Bottom Right: (315, 452)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60.0%	15: person: Top Left: (107, 385) Bottom Right: (315, 451)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66.0%	18: sofa: Top Left: (108, 4) Bottom Right: (353, 244)
+
+
+
+
+
+
+
+
+
+
+61.0%	18: sofa: Top Left: (107, 7) Bottom Right: (361, 245)
+
+
+
+
+
+
+86.0%	15: person: Top Left: (265, 481) Bottom Right: (480, 638)
+91.0%	15: person: Top Left: (266, 478) Bottom Right: (481, 642)
+72.0%	3: bird: Top Left: (253, 465) Bottom Right: (479, 637) and 60.0%	15: person: Top Left: (249, 470) Bottom Right: (477, 630)
+93.0%	15: person: Top Left: (237, 460) Bottom Right: (476, 632)
+97.0%	15: person: Top Left: (230, 420) Bottom Right: (482, 636)
+99.0%	15: person: Top Left: (221, 398) Bottom Right: (478, 631)
+98.0%	15: person: Top Left: (215, 379) Bottom Right: (476, 601)
+98.0%	15: person: Top Left: (215, 380) Bottom Right: (478, 583)
+99.0%	15: person: Top Left: (205, 365) Bottom Right: (484, 580)
+99.0%	15: person: Top Left: (199, 365) Bottom Right: (472, 583)
+95.0%	15: person: Top Left: (168, 355) Bottom Right: (474, 541) and 89.0%	15: person: Top Left: (181, 444) Bottom Right: (482, 635)
+97.0%	15: person: Top Left: (161, 361) Bottom Right: (478, 628)
+98.0%	15: person: Top Left: (133, 365) Bottom Right: (477, 640)
+96.0%	15: person: Top Left: (138, 369) Bottom Right: (481, 601) and 94.0%	15: person: Top Left: (140, 369) Bottom Right: (456, 481)
+99.0%	15: person: Top Left: (132, 358) Bottom Right: (480, 586) and 95.0%	15: person: Top Left: (139, 344) Bottom Right: (439, 465)
+99.0%	15: person: Top Left: (116, 351) Bottom Right: (480, 581) and 71.0%	15: person: Top Left: (129, 341) Bottom Right: (420, 455)
+100.0%	15: person: Top Left: (120, 339) Bottom Right: (482, 589)
+99.0%	15: person: Top Left: (128, 331) Bottom Right: (476, 570)
+99.0%	15: person: Top Left: (126, 322) Bottom Right: (478, 501)
+89.0%	15: person: Top Left: (115, 300) Bottom Right: (482, 487)
+92.0%	15: person: Top Left: (104, 289) Bottom Right: (475, 466)
+96.0%	15: person: Top Left: (102, 283) Bottom Right: (480, 459) and 60.0%	18: sofa: Top Left: (105, 6) Bottom Right: (353, 240)
+96.0%	15: person: Top Left: (98, 274) Bottom Right: (479, 453)
+95.0%	15: person: Top Left: (96, 272) Bottom Right: (483, 455)
+99.0%	15: person: Top Left: (88, 259) Bottom Right: (483, 445)
+99.0%	15: person: Top Left: (88, 259) Bottom Right: (482, 442)
+99.0%	15: person: Top Left: (91, 255) Bottom Right: (480, 438)
+99.0%	15: person: Top Left: (87, 250) Bottom Right: (478, 426)
+99.0%	15: person: Top Left: (84, 255) Bottom Right: (479, 413)
+99.0%	15: person: Top Left: (80, 257) Bottom Right: (481, 397) and 74.0%	18: sofa: Top Left: (105, 4) Bottom Right: (353, 238)
+98.0%	15: person: Top Left: (78, 256) Bottom Right: (480, 390) and 62.0%	15: person: Top Left: (91, 356) Bottom Right: (342, 443)
+99.0%	15: person: Top Left: (75, 251) Bottom Right: (474, 387)
+99.0%	15: person: Top Left: (73, 249) Bottom Right: (469, 387) and 64.0%	15: person: Top Left: (91, 343) Bottom Right: (261, 432)
+99.0%	15: person: Top Left: (65, 246) Bottom Right: (454, 383) and 60.0%	15: person: Top Left: (87, 358) Bottom Right: (340, 446)
+99.0%	15: person: Top Left: (61, 245) Bottom Right: (448, 380) and 67.0%	15: person: Top Left: (86, 360) Bottom Right: (343, 446)
+99.0%	15: person: Top Left: (61, 239) Bottom Right: (441, 378)
+99.0%	15: person: Top Left: (61, 232) Bottom Right: (443, 375)
+99.0%	15: person: Top Left: (61, 230) Bottom Right: (447, 365)
+99.0%	15: person: Top Left: (63, 226) Bottom Right: (447, 361)
+99.0%	15: person: Top Left: (66, 219) Bottom Right: (448, 356)
+99.0%	15: person: Top Left: (64, 214) Bottom Right: (444, 352)
+99.0%	15: person: Top Left: (54, 216) Bottom Right: (415, 350)
+99.0%	15: person: Top Left: (55, 212) Bottom Right: (401, 350)
+99.0%	15: person: Top Left: (55, 216) Bottom Right: (394, 342)
+99.0%	15: person: Top Left: (47, 207) Bottom Right: (374, 345)
+99.0%	15: person: Top Left: (45, 210) Bottom Right: (372, 343)
+99.0%	15: person: Top Left: (49, 213) Bottom Right: (372, 342)
+99.0%	15: person: Top Left: (45, 220) Bottom Right: (368, 338)
+99.0%	15: person: Top Left: (44, 217) Bottom Right: (367, 336)
+99.0%	15: person: Top Left: (42, 222) Bottom Right: (365, 334)
+99.0%	15: person: Top Left: (46, 223) Bottom Right: (360, 330)
+98.0%	15: person: Top Left: (43, 226) Bottom Right: (360, 329)
+99.0%	15: person: Top Left: (41, 229) Bottom Right: (361, 329)
+98.0%	15: person: Top Left: (44, 228) Bottom Right: (337, 333)
+98.0%	15: person: Top Left: (38, 233) Bottom Right: (326, 332)
+99.0%	15: person: Top Left: (31, 232) Bottom Right: (313, 335)
+99.0%	15: person: Top Left: (28, 234) Bottom Right: (309, 334) and 62.0%	15: person: Top Left: (111, 385) Bottom Right: (314, 452)
+99.0%	15: person: Top Left: (27, 238) Bottom Right: (307, 333)
+99.0%	15: person: Top Left: (26, 237) Bottom Right: (304, 334)
+98.0%	15: person: Top Left: (26, 238) Bottom Right: (303, 334)
+98.0%	15: person: Top Left: (28, 240) Bottom Right: (305, 333)
+98.0%	15: person: Top Left: (26, 239) Bottom Right: (305, 330)
+97.0%	15: person: Top Left: (28, 239) Bottom Right: (305, 330)
+95.0%	15: person: Top Left: (28, 238) Bottom Right: (303, 330) and 63.0%	15: person: Top Left: (108, 385) Bottom Right: (314, 452)
+95.0%	15: person: Top Left: (28, 237) Bottom Right: (304, 329) and 61.0%	15: person: Top Left: (107, 385) Bottom Right: (314, 453) and 61.0%	18: sofa: Top Left: (99, 6) Bottom Right: (360, 236)
+94.0%	15: person: Top Left: (24, 237) Bottom Right: (300, 330)
+92.0%	15: person: Top Left: (24, 236) Bottom Right: (297, 329)
+60.0%	15: person: Top Left: (105, 385) Bottom Right: (314, 452)
+69.0%	15: person: Top Left: (22, 231) Bottom Right: (282, 323) and 61.0%	15: person: Top Left: (106, 385) Bottom Right: (314, 452)
+65.0%	15: person: Top Left: (19, 231) Bottom Right: (280, 322) and 60.0%	15: person: Top Left: (105, 385) Bottom Right: (314, 453)
+
+
+
+
+
+62.0%	18: sofa: Top Left: (104, 6) Bottom Right: (323, 233)
+
+
+
+
+
+
+
+
+
+
+62.0%	15: person: Top Left: (7, 220) Bottom Right: (224, 296)
+75.0%	15: person: Top Left: (14, 215) Bottom Right: (226, 293)
+86.0%	15: person: Top Left: (8, 213) Bottom Right: (225, 290)
+88.0%	15: person: Top Left: (11, 212) Bottom Right: (224, 289)
+78.0%	15: person: Top Left: (17, 213) Bottom Right: (220, 287)
+82.0%	15: person: Top Left: (18, 212) Bottom Right: (219, 286)
+85.0%	15: person: Top Left: (18, 211) Bottom Right: (216, 286)
+80.0%	15: person: Top Left: (3, 206) Bottom Right: (210, 284)
+76.0%	15: person: Top Left: (2, 205) Bottom Right: (204, 282)
+71.0%	15: person: Top Left: (2, 204) Bottom Right: (205, 282)
+71.0%	15: person: Top Left: (2, 204) Bottom Right: (205, 282)
+64.0%	15: person: Top Left: (3, 204) Bottom Right: (207, 283)
+60.0%	15: person: Top Left: (3, 203) Bottom Right: (207, 282)
+
+
+
+75.0%	15: person: Top Left: (6, 187) Bottom Right: (201, 270)
+83.0%	15: person: Top Left: (3, 190) Bottom Right: (197, 267)
+79.0%	15: person: Top Left: (1, 193) Bottom Right: (193, 267)
+87.0%	15: person: Top Left: (4, 190) Bottom Right: (196, 267)
+89.0%	15: person: Top Left: (3, 188) Bottom Right: (194, 267)
+90.0%	15: person: Top Left: (5, 185) Bottom Right: (194, 264)
+89.0%	15: person: Top Left: (3, 185) Bottom Right: (196, 262)
+84.0%	15: person: Top Left: (3, 186) Bottom Right: (196, 262)
+90.0%	15: person: Top Left: (3, 185) Bottom Right: (195, 260)
+93.0%	15: person: Top Left: (2, 185) Bottom Right: (195, 257)
+92.0%	15: person: Top Left: (2, 185) Bottom Right: (195, 256)
+93.0%	15: person: Top Left: (1, 182) Bottom Right: (195, 257)
+94.0%	15: person: Top Left: (2, 183) Bottom Right: (194, 256)
+93.0%	15: person: Top Left: (2, 185) Bottom Right: (192, 252)
+93.0%	15: person: Top Left: (1, 185) Bottom Right: (194, 252)
+88.0%	15: person: Top Left: (1, 183) Bottom Right: (191, 252)
+71.0%	15: person: Top Left: (1, 180) Bottom Right: (194, 251)
+83.0%	15: person: Top Left: (2, 177) Bottom Right: (194, 252)
+
+
+
+
+
+
+
+
+
+
+
+
+
+63.0%	15: person: Top Left: (-1, 162) Bottom Right: (132, 221)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+69.0%	18: sofa: Top Left: (109, 5) Bottom Right: (318, 239)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+67.0%	18: sofa: Top Left: (104, 5) Bottom Right: (315, 238)
+60.0%	18: sofa: Top Left: (105, 5) Bottom Right: (315, 239)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
