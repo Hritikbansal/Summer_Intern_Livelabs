@@ -33,7 +33,7 @@ ARGS                 = None
 camera               = None
 
 '''--------------------file in which the detections are saved------------------'''
-f=open("result_exp_9.txt","w")
+f=open("result_exp_8.txt","w")
 
 # ---- Step 1: Open the enumerated device and get a handle to it -------------
 
@@ -156,7 +156,7 @@ def main():
     graph = load_graph(device)
     #Define the codec and create VideoWriter object
     fourcc = cv2.VideoWriter_fourcc(*'XVID')
-    out = cv2.VideoWriter('result_exp_9.avi',fourcc,30.0,(int(a),int(b)))
+    out = cv2.VideoWriter('result_exp_8.avi',fourcc,30.0,(int(a),int(b)))
 
     #li_frame=[] #this needs to be used for real time live video capturing
     
@@ -218,7 +218,7 @@ if __name__ == '__main__':
     ARGS = parser.parse_args()
 
     # Create a VideoCapture object
-    camera = cv2.VideoCapture("exp_9.avi")  #for real time video capture use 0 instead of file name
+    camera = cv2.VideoCapture("exp_8.avi")  #for real time video capture use 0 instead of file name
     
     #print(camera.get(cv2.CAP_PROP_FPS))
     a=camera.get(cv2.CAP_PROP_FRAME_WIDTH)

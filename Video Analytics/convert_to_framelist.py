@@ -26,7 +26,7 @@ def check_person(string): #to check if the made detection is of a person or not
 	return False
 
 
-f=open("result_occ.txt","r")
+f=open("result_exp_8.txt","r")
 
 li=f.readlines()
 
@@ -35,7 +35,7 @@ li=f.readlines()
 frames=[]
 #print(li)
 
-f1=open("framelist_occ.txt","w")
+f1=open("framelist_exp_8.txt","w")
 for k in li:
 	people=[]
 	if(k!="\n"):	#if there are some detections in that frame 
