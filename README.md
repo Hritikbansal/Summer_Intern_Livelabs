@@ -8,6 +8,7 @@ https://docs.google.com/document/d/1tDaomsvD9iYBNnc_bVxJDLeGC3CN9RRyQGKF70ALqiw/
 
 
 Usage in Video Analytics Project(Not real time):
+
 1.Capture a video using make_video.py
 2.Detection happens using NCS connected to the PC(Rpi) and ncsdk/ncappzoo
 3.live-object-detector.py in live-object-detector app of ncappzoo is made to run on captured video.
