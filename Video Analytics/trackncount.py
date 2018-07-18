@@ -1,7 +1,7 @@
-#Capture video using make_video.py
-#Get detected video using MobileDet with NCS plugged in
-#Convert the text file into framelist list with frames which have person in them
-#Run trackncount.py to find the number of people in the captured video
+#This script counts the number of people who have moved from 
+#left to right and right to left across the screen.
+#Prerequisite: framelist file for that video must be present
+#video must be present in the same directory.
 
 #Multiple object tracking
 import cv2
