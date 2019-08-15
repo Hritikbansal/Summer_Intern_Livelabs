@@ -1,6 +1,12 @@
 # Summer_Intern_SMU
 Tfl Bus Data Collection and Video Analytics
 
+Bus Data Collection
+
+Developed web crawlers to get ETA for london buses.
+This data was extensively used in https://arxiv.org/abs/1907.08483
+
+Video Analytics
 
 Detailed Documentation can be found at:
 
